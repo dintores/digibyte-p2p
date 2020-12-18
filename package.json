@@ -19,7 +19,7 @@
   "dependencies": {
     "bloom-filter": "^0.2.0",
     "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
-    "digibyte": "^0.15.5",
+    "digibyte": "^0.15.8",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
